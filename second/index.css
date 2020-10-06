@@ -1,0 +1,28 @@
+body {
+    background-color: coral;
+}
+.topbox {
+    padding: 100px;
+    border: 2px black solid;
+    box-sizing: border-box;
+}
+.shapeone {
+    height: 200px;
+    width: 50px;
+    background-color: purple;
+    display: inline-block;
+}
+
+.shapetwo {
+    height: 300px;
+    width: 800px;
+    background-color: green;
+    display: inline-block;
+}
+.shapethree {
+    height: 300px;
+    width: 300px;
+    background-color: turquoise;
+    border-radius: 50%;
+    display: inline-block;
+}

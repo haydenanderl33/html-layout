@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(206, 201, 201, 0.733);
+    margin: 0;
+}
+.head {
+    background-color: rgb(73, 63, 63);
+    height: 10vh;
+    color: white;
+    margin: 0 auto;
+}
+.center {
+    background-color: white;
+  width: 80%;
+  height: 80vh;
+  margin: 0 auto;
+}
+.foot{
+    background-color: black;
+    height: 10vh;
+    width: 80%;
+    margin: 0 auto;
+}

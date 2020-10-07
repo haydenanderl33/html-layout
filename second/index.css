@@ -1,14 +1,17 @@
 body {
-    background-color: coral;
+    background-color:;
 }
 .topbox {
-    padding: 100px;
-    border: 2px black solid;
+    height: 350px;
+    padding: 10px;
+    border: 5px black solid;
+    margin: 10px;
     box-sizing: border-box;
 }
 .shapeone {
     height: 200px;
     width: 50px;
+    margin-right: 100px;
     background-color: purple;
     display: inline-block;
 }
@@ -16,6 +19,7 @@ body {
 .shapetwo {
     height: 300px;
     width: 800px;
+    margin-right: 100px;
     background-color: green;
     display: inline-block;
 }
@@ -25,4 +29,30 @@ body {
     background-color: turquoise;
     border-radius: 50%;
     display: inline-block;
+}
+.middlebox {
+    height: 400px;
+    margin: 10px;
+    padding : 100px;
+    border: 5px black dotted;
+    box-sizing: border-box;
+    box-shadow: black;
+
+}
+.shapefour{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(235, 236, 165);
+    
+}
+.bottombox{
+    height: 20vh;
+    width: 20vw;
+    margin: 10px;
+    text-align: center;
+    background-color: white;
+    box-sizing: border-box;
+    border: 2px black solid;
+    letter-spacing: 10px;
+    margin-left: 750px;
 }
